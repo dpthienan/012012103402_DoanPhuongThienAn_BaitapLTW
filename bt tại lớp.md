@@ -1,5 +1,6 @@
 **1. Mong muốn của bạn là gì sau khi học xong môn học?**
 Sau khi học xong môn này, em mong muốn nắm vững kiến thức cơ bản về lập trình di động, biết cách xây dựng giao diện và các chức năng cho một ứng dụng. Em cũng muốn hiểu quy trình phát triển, kiểm thử và sửa lỗi để có thể tự hoàn thành một ứng dụng nhỏ. Xa hơn, em hy vọng có thể áp dụng những kiến thức đã học vào các dự án thực tế và tiếp tục phát triển kỹ năng lập trình của mình.
-**2. Theo bạn, trong tương lai gần(10 năm) lập trình di động có phát triển không? Tại sao?
+
+**2. Theo bạn, trong tương lai gần(10 năm) lập trình di động có phát triển không? Tại sao?**
 Theo em, lập trình di động vẫn sẽ phát triển trong 10 năm tới. Điện thoại đã trở thành thiết bị quen thuộc trong học tập, công việc, mua sắm, giải trí và nhiều hoạt động hằng ngày. Nhu cầu sử dụng ứng dụng mới và cải tiến ứng dụng hiện có vì thế vẫn còn lớn. Bên cạnh đó, các công nghệ như trí tuệ nhân tạo, điện toán đám mây, thanh toán số và thiết bị thông minh có thể mở ra thêm nhiều tính năng cho ứng dụng di động. AI có thể hỗ trợ lập trình viên viết và kiểm tra mã, nhưng vẫn cần con người hiểu nhu cầu người dùng, thiết kế trải nghiệm phù hợp và đảm bảo ứng dụng hoạt động an toàn, chính xác. Vì vậy, em nghĩ nghề lập trình di động sẽ thay đổi theo công nghệ nhưng vẫn có nhiều cơ hội phát triển.
 
